@@ -1,6 +1,6 @@
 # logP prediction
 
-This repository demonstrates the use of Spektral tensorflow library for the prediction of logP values from molecular structure, a QSPR model. logP values are predicted using an Edge-Conditioned Convolutional layers (ECC) and Attention Pooling from Spektral. This combination had a very good performance on several QSPR tasks I have tested.
+This repository demonstrates the use of Spektral tensorflow library for the prediction of logP values from molecular structure, a QSPR model. logP values are predicted using an Edge-Conditioned Convolutional layers (ECC) and Attention Pooling from Spektral. This combination had a very good performance on several QSPR tasks I have tested and achieves SOTA results comparing to empirical and physical (e.g. QM) models in SAMPL6 and SAMPL7 challanges in logP prediction.
 
 ## logP dataset
 
